@@ -1,0 +1,14 @@
+{
+    "name": "jiayu/activity",
+    "autoload": {
+        "psr-4": {
+            "Jiayu\\Activity\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.4",
+        "tecnickcom/tcpdf": "^6.10",
+        "mpdf/mpdf": "^8.2",
+        "setasign/fpdf": "^1.8"
+    }
+}

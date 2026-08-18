@@ -1,0 +1,14 @@
+/vendor/
+/uploads/
+/activity_pdf_generator_package.zip
+/fonts/Noto_Sans_SC/static/
+/fonts/Noto_Sans_SC/*Variable*
+/fpdf/font/*.php
+!/fpdf/font/placeholder.txt
+vendor/mpdf/mpdf/tmp/
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.tmp
